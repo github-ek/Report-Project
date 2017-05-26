@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Report Project", "Report Project\Report Project.rptproj", "{A27C653F-D507-417A-906B-CF7496DD1FE5}"
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Rubik", "Report Project\Rubik.rptproj", "{A27C653F-D507-417A-906B-CF7496DD1FE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

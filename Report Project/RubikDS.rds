@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="RubikDS">
+  <ConnectionProperties>
+    <Extension>ODBC</Extension>
+    <ConnectString>Dsn=Rubik</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+  </ConnectionProperties>
+  <DataSourceID>87cd8bef-a1c7-4329-9cd6-d41f285063eb</DataSourceID>
+</RptDataSource>
